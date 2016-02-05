@@ -1,0 +1,27 @@
+{
+    "left_eye_x": {
+        "id": 1,
+        "name": "left_eye_x",
+        "value": "0.726996"
+    },
+    "left_eye_y": {
+        "id": 2,
+        "name": "left_eye_y",
+        "value": "0.936473"
+    },
+    "right_eye_x": {
+        "id": 3,
+        "name": "right_eye_x",
+        "value": "0.689401"
+    },
+    "right_eye_y": {
+        "id": 4,
+        "name": "right_eye_y",
+        "value": "0.989414/"
+    },
+    "timestamp": {
+        "id": 0,
+        "name": "timestamp",
+        "value": "1167950566901106"
+    }
+}
